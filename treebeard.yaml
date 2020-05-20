@@ -1,2 +1,2 @@
 ignore:
-  - content/courseware/advanced-snowball-earth.ipynb
+  - "content/courseware/advanced-snowball-earth.ipynb"
