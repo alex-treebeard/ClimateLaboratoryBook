@@ -36,3 +36,4 @@ The contents of this book are licensed for free and open consumption under the f
 [book]: https://brian-rose.github.io/ClimateLaboratoryBook/
 [repo]: https://github.com/brian-rose/ClimateLaboratoryBook
 [notebook]: https://jupyter-notebook.readthedocs.io/en/stable/ 
+
